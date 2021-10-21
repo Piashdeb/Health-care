@@ -1,0 +1,21 @@
+.footer-anchor{
+    text-align: center;
+}
+.footer-anchor a i{
+  font-size: 50px;
+  margin-left: 2%;
+  margin-right: 2%;
+  color: tomato;
+}
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+    .footer-anchor{
+        text-align: center;
+    }
+    .footer-anchor a i{
+      font-size: 50px;
+      margin-left: 2%;
+      margin-right: 2%;
+      color: tomato;
+  }
+
+  }

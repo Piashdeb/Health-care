@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "PRIMARY HEALTH CARE",
+      "img": "https://thumbs.dreamstime.com/b/isometric-pharmacy-store-doctor-pharmacist-patient-woman-holding-prescription-checking-medicine-health-care-concept-157482081.jpg",
+      "description": "Pharmacy is the clinical health science that links medical science with chemistry and it is charged with the discovery, production, disposal, safe and effective use, and control of medications and drugs."
+    },
+    {
+      "id": 2,
+      "name": "GYNEOLOGICAL CLINIC",
+      "img": "https://img.freepik.com/free-vector/gynecology-consultation-illustration_23-2148653151.jpg?size=626&ext=jpg",
+      "description": "The Gynecology Clinic offers care for females from infancy through menopause and annual exams to complex problems including Fibroids, Urogynecology and Young Adult Gynecology. We also offer comprehensive care for all pelvic disorders through our Pelvic Health Center."
+    },
+    {
+      "id": 3,
+      "name": "PRECISE DIAGNOSIS",
+      "img": "https://thumbs.dreamstime.com/b/illustration-concept-pulmonology-lung-health-diagnosis-doctors-scientists-examine-internal-organ-inspection-check-180034183.jpg",
+      "description": "Precision diagnosis is the accurate and timely explanation of each patients health problem and further requires communication of that explanation to patients and surrogate decision-makers."
+    },
+    {
+      "id": 4,
+      "name": "CARDIAC CLINIC",
+      "img": "https://thumbs.dreamstime.com/b/human-heart-logo-cardiology-clinic-cardiologist-appointment-treatment-patient-help-cardiovascular-disease-healthcare-199974801.jpg",
+      "description": "The clinic staff helps you understand your current state of cardiovascular health and how you can reduce your risk of cardiovascular disease. The staff in the Cardiovascular Health Clinic works together as a multidisciplinary team to coordinate your care."
+    },
+    {
+      "id": 5,
+      "name": "DENTAL SURGERY",
+      "img": "https://thumbs.dreamstime.com/b/vector-illustration-dental-surgeon-defferent-instruments-o-light-green-background-tooth-120313970.jpg",
+      "description": "Dental surgery is any of a number of medical procedures that involve artificially modifying dentition; in other words, surgery of the teeth, gums and jaw bones."
+    },
+    {
+      "id": 6,
+      "name": "REHABILITATION CENTER",
+      "img": "https://image.freepik.com/free-vector/rehabilitation-hospital-abstract-concept-vector-illustration-rehab-hospital-rehabilitation-center-stabilization-medical-conditions-mental-health-care-medical-facility-abstract-metaphor_335657-4088.jpg",
+      "description": "Rehabilitation is care that can help you get back, keep, or improve abilities that you need for daily life. These abilities may be physical, mental, and/or cognitive."
+    }
+  ]
